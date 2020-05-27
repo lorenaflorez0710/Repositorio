@@ -1,0 +1,18 @@
+.centrar{
+    background-color: black;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.amarillo{
+    background-color: yellow;
+    height: 250px;
+}
+.azul{
+    background-color: blue;
+    height: 250px;
+}
+.rojo{
+    background-color: red;
+    height: 250px;
+}
